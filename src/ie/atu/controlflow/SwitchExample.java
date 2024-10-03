@@ -2,7 +2,7 @@ package ie.atu.controlflow;
 
 public class SwitchExample {
     public static void main(String[] args) {
-        int month = 13;
+        int month = 12;
 
         switch (month) {
             case 1:
